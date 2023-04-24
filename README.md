@@ -38,6 +38,9 @@ If you're in need of a free VPS server, there are options available online that 
 <li>Read the instructions on the Colab page that opens after clicking "open in colab".</li>
 </ol>
 
+## Buy Me A Cofee
+<a href="https://www.buymeacoffee.com/ragu2k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Others
 <div>
   <a href="https://github.com/raguggg/quillbot-premium-for-free">
