@@ -22,6 +22,11 @@
 
 ## About
 If you're in need of a free VPS server, there are options available online that can help. One such option is a GitHub repository that provides instructions on how to set up a VPS server for free using Google Colab, a cloud-based platform for running Jupyter Notebook. With these instructions, you can access a free VPS server that you can use to run your own applications, host websites, or use as a remote development environment. The instructions provided are easy to follow, even for those with no prior experience setting up servers. Overall, this GitHub repository is an excellent resource for anyone looking for a cost-effective way to access a VPS server.
+
+## Support
+If you find this project helpful, please consider giving it a star ⭐️. Your support is greatly appreciated!
+[![GitHub stars](https://img.shields.io/github/stars/raguggg/colab-as-Vps.svg)](https://github.com/raguggg/colab-as-Vps/stargazers)
+
 ## Key Features
 
 * Free to use
