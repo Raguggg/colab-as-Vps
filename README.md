@@ -7,15 +7,16 @@
   <br>
 </h1>
 
-<h4 align="center">The colab is convert into a vps server </h4>
+<h4 align="center">The colab is convert into a vps server version 2.0</h4>
 
 
 
 <p align="center">
   <a href="#about">About</a> •
   <a href="#key-features">Key Features</a> •
+  <a href="#whats-new">what's new</a> •
   <a href="#how-to-use">How To Use</a>  •
-  <a href="#others">Others</a>
+  <a href="#others">Others</a>  
 </p>
 
 ![image](https://user-images.githubusercontent.com/88898517/227769657-9d1f8ba5-f951-4d17-b36b-dabc45b324c7.png)
@@ -27,6 +28,18 @@ If you're in need of a free VPS server, there are options available online that 
 If you find this project helpful, please consider giving it a star ⭐️. Your support is greatly appreciated!
 [![GitHub stars](https://img.shields.io/github/stars/raguggg/colab-as-Vps.svg)](https://github.com/raguggg/colab-as-Vps/stargazers)
 
+## what's new
+  <p>
+    Here are the new features and improvements in version 2.0:
+  </p>
+  <ul>
+    <li>Making the user an administrator with privileged access.</li>
+    <li>Setting the administrator password as "root".</li>
+    <li>Users can perform administrative tasks by typing "su" in the remote desktop terminal and using the password "root".</li>
+    <li>Introduction of the new feature: You can now install VS Code.</li>
+  </ul>
+
+  
 ## Key Features
 
 * Free to use
